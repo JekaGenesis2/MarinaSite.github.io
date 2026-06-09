@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
@@ -965,7 +964,6 @@
         <h2>Сделайте первый <em>шаг</em></h2>
         <p>Оставьте заявку, и я свяжусь с вами в ближайшее время, чтобы договориться о встрече. Никаких обязательств — первый контакт ни к чему не обязывает.</p>
         <p>Работаю в Нижнем Новгороде очно и онлайн для клиентов из любого города.</p>
-
         <div class="contact-links">
           <a href="tel:+79519026159" class="contact-link">
             <span class="icon">
@@ -987,8 +985,6 @@
           </a>
         </div>
       </div>
-
-     
         <div class="success-msg" id="successMsg">
           <div class="big-check">🌿</div>
           <h4>Заявка отправлена!</h4>
