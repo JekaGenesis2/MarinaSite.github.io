@@ -834,7 +834,6 @@
           </div>
         </div>
       </div>
-
       <div class="about-guarantees">
         <h3>Гарантии безопасности</h3>
         <ul class="guarantee-list">
